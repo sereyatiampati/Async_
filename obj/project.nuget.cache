@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qx/xtG4mexHJdw1P0iL7vhqRLrx5fA+XDKUpWXRs+b+i5NfCDTfjMY6bH5y8NroaXaDtSkD3hc8usxE5x6It9g==",
+  "success": true,
+  "projectFilePath": "/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/AsyncJob.csproj",
+  "expectedPackageFiles": [
+    "/home/sereya/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

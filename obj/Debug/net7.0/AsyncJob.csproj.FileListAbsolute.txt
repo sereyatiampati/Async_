@@ -1,0 +1,17 @@
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/AsyncJob
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/AsyncJob.deps.json
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/AsyncJob.runtimeconfig.json
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/AsyncJob.dll
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/AsyncJob.pdb
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.csproj.CopyComplete
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.dll
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/refint/AsyncJob.dll
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.pdb
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/AsyncJob.genruntimeconfig.cache
+/home/sereya/Desktop/JiTu/Learning C#/AsyncJob/obj/Debug/net7.0/ref/AsyncJob.dll
