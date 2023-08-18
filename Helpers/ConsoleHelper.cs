@@ -1,5 +1,3 @@
-using System;
-
 namespace AsyncJob.Helpers
 {
     public static class ConsoleHelper
@@ -14,7 +12,5 @@ namespace AsyncJob.Helpers
         {
             Console.WriteLine(message);
         }
-
-        // Other console-related helper methods...
     }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Threading.Tasks;
-using AsyncJob.Models;
+﻿using AsyncJob.Models;
 using AsyncJob.Services;
 using AsyncJob.Helpers;
 using AsyncJob.Utils;
